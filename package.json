@@ -1,0 +1,19 @@
+{
+  "name": "styled-component-perf",
+  "version": "1.0.0",
+  "description": "Performance test of Styled Components to compare to CSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^4.1.3"
+  }
+}
